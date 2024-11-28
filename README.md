@@ -1,7 +1,7 @@
 ### Hi there 👋
-My name is Laura Valeria Castillo and this is my profile:
+I love understand new technologies, web, desktop, movil, anything.
 
-  🌱 Student and interesting in programming languages and IA , I started with my first concepts about generative IA and I'm very exited for this topic.
+  🌱 Now Im a Student and interesting in programming languages and IA , I started with my first concepts about generative IA and I'm very exited for this topic.
   My favorite programming language is javascript but I'm learned python. 🌱
 <!--
 **1609033alumno/1609033alumno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
